@@ -15,13 +15,13 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             Button("Launch chat", action: { showConversation() })
-            .navigationBarTitle("Welcome", displayMode: .inline)
-            .navigationBarItems(
-                trailing:
-                    Button("Sign out") {
-                        self.onSignOut()
-                    }
-            )
+                .navigationBarTitle("Welcome", displayMode: .inline)
+                .navigationBarItems(
+                    trailing:
+                        Button("Sign out") {
+                            self.onSignOut()
+                        }
+                )
         }
         .onAppear(perform: initialActions)
         .sheet(isPresented: $showingLogin) {

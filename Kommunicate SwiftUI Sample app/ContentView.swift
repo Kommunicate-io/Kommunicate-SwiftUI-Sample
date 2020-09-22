@@ -6,7 +6,6 @@
 //
 
 import UIKit
-import Applozic
 import SwiftUI
 import Kommunicate
 

@@ -34,4 +34,4 @@ Follow these steps to install and run the sample app:
 
 ## Docs
 
-Please checkout [Documentation](https://docs.kommunicate.io/docs/ios-authentication.html) for more details.
+Please checkout [SwiftUI Integration docs](https://github.com/Kommunicate-io/Kommunicate-SwiftUI-Sample/Documentation/Integration.md) to integrate Kommunicate iOS SDK in a SwiftUI project.

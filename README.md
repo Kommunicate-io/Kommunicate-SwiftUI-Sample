@@ -34,4 +34,5 @@ Follow these steps to install and run the sample app:
 
 ## Docs
 
-Please checkout [SwiftUI Integration docs](https://github.com/Kommunicate-io/Kommunicate-SwiftUI-Sample/Documentation/Integration.md) to integrate Kommunicate iOS SDK in a SwiftUI project.
+Please checkout [SwiftUI Integration docs](https://github.com/Kommunicate-io/Kommunicate-SwiftUI-Sample/blob/master/Documentation/Integration.md) to integrate Kommunicate iOS SDK in a SwiftUI project.
+

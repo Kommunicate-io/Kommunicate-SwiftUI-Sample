@@ -10,6 +10,7 @@
 		4D9CC2318D3C36DBDA83D78C /* Pods_Kommunicate_SwiftUI_Sample_app_Kommunicate_SwiftUI_Sample_appUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 343963888A9F862A509D4EE3 /* Pods_Kommunicate_SwiftUI_Sample_app_Kommunicate_SwiftUI_Sample_appUITests.framework */; };
 		767A45BAE849D444FF9F91B6 /* Pods_Kommunicate_SwiftUI_Sample_app.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AA6003EBCFB21F6660343421 /* Pods_Kommunicate_SwiftUI_Sample_app.framework */; };
 		8ABE2D9EAD5AA0F1175BFC1E /* Pods_Kommunicate_SwiftUI_Sample_appTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E5D9339753F6F73ECF48E018 /* Pods_Kommunicate_SwiftUI_Sample_appTests.framework */; };
+		8B65048A252307FC0024CBB4 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8B650489252307FC0024CBB4 /* Localizable.strings */; };
 		8BF1B1CF2514D97900BC8F55 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF1B1CE2514D97900BC8F55 /* AppDelegate.swift */; };
 		8BF1B1D12514D97900BC8F55 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF1B1D02514D97900BC8F55 /* SceneDelegate.swift */; };
 		8BF1B1D32514D97900BC8F55 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BF1B1D22514D97900BC8F55 /* ContentView.swift */; };
@@ -46,6 +47,7 @@
 		51965A2CBE1A3E7B49F3D7F5 /* Pods-Kommunicate SwiftUI Sample app.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Kommunicate SwiftUI Sample app.release.xcconfig"; path = "Target Support Files/Pods-Kommunicate SwiftUI Sample app/Pods-Kommunicate SwiftUI Sample app.release.xcconfig"; sourceTree = "<group>"; };
 		70915ABCCA3B214FC240D252 /* Pods-Kommunicate SwiftUI Sample appTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Kommunicate SwiftUI Sample appTests.debug.xcconfig"; path = "Target Support Files/Pods-Kommunicate SwiftUI Sample appTests/Pods-Kommunicate SwiftUI Sample appTests.debug.xcconfig"; sourceTree = "<group>"; };
 		8B6503DF2519E0560024CBB4 /* Kommunicate SwiftUI Sample app.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Kommunicate SwiftUI Sample app.entitlements"; sourceTree = "<group>"; };
+		8B650489252307FC0024CBB4 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 		8BF1B1CB2514D97900BC8F55 /* Kommunicate SwiftUI Sample app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Kommunicate SwiftUI Sample app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BF1B1CE2514D97900BC8F55 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8BF1B1D02514D97900BC8F55 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 				8BF1B1DC2514D97E00BC8F55 /* Info.plist */,
 				8BF1B1D62514D97E00BC8F55 /* Preview Content */,
 				8BF1B2232514EE6100BC8F55 /* LoginView.swift */,
+				8B650489252307FC0024CBB4 /* Localizable.strings */,
 			);
 			path = "Kommunicate SwiftUI Sample app";
 			sourceTree = "<group>";
@@ -290,6 +293,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8BF1B1DB2514D97E00BC8F55 /* LaunchScreen.storyboard in Resources */,
+				8B65048A252307FC0024CBB4 /* Localizable.strings in Resources */,
 				8BF1B1D82514D97E00BC8F55 /* Preview Assets.xcassets in Resources */,
 				8BF1B1D52514D97E00BC8F55 /* Assets.xcassets in Resources */,
 			);

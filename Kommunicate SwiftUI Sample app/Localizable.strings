@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Kommunicate SwiftUI Sample app
+
+  Created by Mukesh on 29/09/20.
+  
+*/
+
+ConversationListVCTitle = "Conversations";
